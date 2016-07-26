@@ -1,0 +1,12 @@
+{
+    "defaultFunctionName": "TimerTriggerPowerShell",
+    "description": "A PowerShell function that will be run on a specified schedule",
+    "name": "TimerTrigger - PowerShell",
+    "language": "PowerShell",
+    "category": [
+        "Experimental"
+    ],
+    "userPrompt": [
+        "schedule"
+    ]
+}
